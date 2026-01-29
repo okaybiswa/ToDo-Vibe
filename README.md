@@ -16,3 +16,6 @@ ToDo Vibe is a smart and minimal task management web application that helps user
 
 ## 📌 Project Status
 Currently under active development.
+
+## 🌐 Live Demo
+https://okaysibwa.github.io/todo-vibe/
